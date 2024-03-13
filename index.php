@@ -1,0 +1,1 @@
+<h1>Introduction PHP partie 2</h1>
